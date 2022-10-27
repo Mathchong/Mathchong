@@ -6,7 +6,6 @@
 - Sou apaixonado por jogos, animes, e livros 📚
 
 ## Linguagens e Ferramentas
----
 
 ### Front-End
 
