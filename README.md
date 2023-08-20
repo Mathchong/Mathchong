@@ -5,8 +5,7 @@
 - Me formei pela [Driven Education](https://www.driven.com.br/)
 - Sou apaixonado por jogos, animes, e livros 📚
 - Acredito que com a tecnologia podemos desenvolver ótimas ferramentas que facilitem nosso dia-a-dia
-
-## Atualmente cursando Engenharia de Software na PUCRS
+- Atualmente cursando Engenharia de Software na PUCRS
 
 ## Linguagens e Ferramentas
 
